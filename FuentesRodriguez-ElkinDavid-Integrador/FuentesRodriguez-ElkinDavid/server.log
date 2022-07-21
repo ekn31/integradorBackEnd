@@ -1,0 +1,155 @@
+INFO    2022-07-13 13:03:32,487 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DATOS ******
+INFO    2022-07-13 13:04:42,621 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DATOS ******
+INFO    2022-07-13 13:06:48,114 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:06:50,553 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:07:10,477 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:07:10,483 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:4
+INFO    2022-07-13 13:12:30,636 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:12:33,127 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+DEBUG   2022-07-13 13:12:33,177 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:4
+ERROR   2022-07-13 13:12:33,178 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 13:12:39,361 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:12:39,377 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:1
+INFO    2022-07-13 13:12:39,381 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@61a51954
+INFO    2022-07-13 13:13:48,916 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:13:51,591 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:13:51,636 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:1
+INFO    2022-07-13 13:13:51,638 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@153ea6dd
+INFO    2022-07-13 13:20:55,324 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:20:55,326 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio
+INFO    2022-07-13 13:20:55,326 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:21:00,735 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:21:00,735 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio
+INFO    2022-07-13 13:21:00,735 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:21:04,955 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:21:04,996 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:1
+INFO    2022-07-13 13:21:04,998 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@75861084
+INFO    2022-07-13 13:21:04,999 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:21:08,427 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+DEBUG   2022-07-13 13:21:08,431 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:4
+ERROR   2022-07-13 13:21:08,431 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 13:21:11,228 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:21:11,229 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:21:16,970 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+INFO    2022-07-13 13:21:16,974 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se actualizo el domicilio:com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@38a3c49f
+INFO    2022-07-13 13:21:16,974 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+INFO    2022-07-13 13:21:20,202 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE ELIMINAR DOMICILIO ******
+DEBUG   2022-07-13 13:21:20,204 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se elimino el domicilio:1
+INFO    2022-07-13 13:21:20,218 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ELIMINAR DOMICILIO ******
+ERROR   2022-07-13 13:21:20,219 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:1
+INFO    2022-07-13 13:21:20,219 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ELIMINAR DOMICILIO ******
+INFO    2022-07-13 13:21:43,610 [http-nio-8080-exec-9] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE ELIMINAR DOMICILIO ******
+ERROR   2022-07-13 13:21:43,612 [http-nio-8080-exec-9] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:1
+INFO    2022-07-13 13:21:43,612 [http-nio-8080-exec-9] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ELIMINAR DOMICILIO ******
+INFO    2022-07-13 13:25:01,945 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:25:01,946 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio
+INFO    2022-07-13 13:25:01,946 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:25:09,924 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE ELIMINAR DOMICILIO ******
+INFO    2022-07-13 13:25:09,975 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilo2
+INFO    2022-07-13 13:27:45,268 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:27:45,271 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio
+INFO    2022-07-13 13:27:45,272 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:27:50,356 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+ERROR   2022-07-13 13:27:50,390 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se pudo actualizar el domicilio:null
+INFO    2022-07-13 13:27:50,390 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+INFO    2022-07-13 13:29:03,965 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:29:03,967 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio
+INFO    2022-07-13 13:29:03,967 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:29:06,296 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+ERROR   2022-07-13 13:29:06,321 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se pudo actualizar el domicilio:4
+INFO    2022-07-13 13:29:06,321 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+INFO    2022-07-13 13:31:26,445 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:31:26,447 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 13:31:26,447 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:31:27,716 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:31:27,716 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 13:31:27,716 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:31:30,045 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:31:30,248 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontraron estos domicilios: [com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@4fe1b791, com.dh.integrador.FuentesRodriguezElkinDavid.dto.domicilioDTO@14f7be0b]
+INFO    2022-07-13 13:31:30,249 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:41:10,953 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE INSERTAR PACIENTE ******
+DEBUG   2022-07-13 13:41:10,955 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se inserto el paciente con id: null
+INFO    2022-07-13 13:41:10,956 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA PROCESO DE INSERTAR PACIENTE ******
+INFO    2022-07-13 13:41:12,318 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE INSERTAR PACIENTE ******
+DEBUG   2022-07-13 13:41:12,318 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se inserto el paciente con id: null
+INFO    2022-07-13 13:41:12,318 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA PROCESO DE INSERTAR PACIENTE ******
+INFO    2022-07-13 13:41:15,305 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE BUSCAR UN PACIENTE ******
+INFO    2022-07-13 13:41:15,376 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se encontro el paciente:1
+INFO    2022-07-13 13:41:15,377 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se encontro el paciente:
+INFO    2022-07-13 13:41:15,377 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA PROCESO DE BUSCAR UN PACIEMTE ******
+INFO    2022-07-13 13:41:18,767 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE BUSCAR UN PACIENTE ******
+DEBUG   2022-07-13 13:41:18,770 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - No se encontro el paciente:5
+ERROR   2022-07-13 13:41:18,770 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 13:41:22,363 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  PACIENTES ******
+INFO    2022-07-13 13:41:22,363 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  PACIENTES ******
+INFO    2022-07-13 13:41:25,992 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  INICIA EL PROCESO DE ACTUALIZAR PACIENTES ******
+INFO    2022-07-13 13:41:25,997 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se actualizo el paciente:com.dh.integrador.FuentesRodriguezElkinDavid.dto.pacienteDTO@75b68be6
+INFO    2022-07-13 13:41:25,997 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA EL PROCESO DE ACTUALIZAR PACIENTES ******
+INFO    2022-07-13 13:41:31,675 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE ELIMINAR PACIENTE ******
+DEBUG   2022-07-13 13:41:31,683 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se elimino el paciente: 2
+INFO    2022-07-13 13:41:31,716 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA EL PROCESO DE ELIMINAR PACIENTE ******
+INFO    2022-07-13 13:55:39,572 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:55:39,574 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 13:55:39,575 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:55:42,161 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+DEBUG   2022-07-13 13:55:42,200 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:4
+ERROR   2022-07-13 13:55:42,200 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 13:55:46,727 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:55:46,728 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:57:42,303 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE INSERTAR DOMICILIO ******
+DEBUG   2022-07-13 13:57:42,304 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 13:57:42,304 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 13:57:44,782 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+DEBUG   2022-07-13 13:57:44,846 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - No se encontro el domicilio:4
+ERROR   2022-07-13 13:57:44,847 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 13:57:48,674 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:57:48,675 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  DOMICILIOS ******
+INFO    2022-07-13 13:58:19,778 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  SE INICIA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 13:58:19,787 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:1
+INFO    2022-07-13 13:58:19,788 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - Se encontro el domicilio:org.springframework.data.jpa.repository.support.SimpleJpaRepository@551e8173
+INFO    2022-07-13 13:58:19,789 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.DomicilioController  - *****  FINALIZA PROCESO DE BUSCAR UN DOMICILIO ******
+INFO    2022-07-13 17:38:19,019 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE INSERTAR ODONTOLOGO ******
+DEBUG   2022-07-13 17:38:19,022 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 17:38:19,023 [http-nio-8080-exec-1] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 17:38:20,588 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE INSERTAR ODONTOLOGO ******
+DEBUG   2022-07-13 17:38:20,589 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 17:38:20,589 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA PROCESO DE INSERTAR DOMICILIO ******
+INFO    2022-07-13 17:38:23,573 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE BUSCAR UN ODONTOLGO ******
+INFO    2022-07-13 17:38:23,871 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se encontro el odontolgo:1
+INFO    2022-07-13 17:38:23,872 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA PROCESO DE BUSCAR UN ODONTOLGO ******
+INFO    2022-07-13 17:38:27,566 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE BUSCAR UN ODONTOLGO ******
+DEBUG   2022-07-13 17:38:27,569 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - No se encontro el odontolgo:4
+ERROR   2022-07-13 17:38:27,569 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 17:38:32,884 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE ELIMINAR ODONTOLOGO ******
+DEBUG   2022-07-13 17:38:32,887 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se elimino el odontologo: 1
+INFO    2022-07-13 17:38:32,930 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA EL PROCESO DE ELIMINAR ODONTOLOGO ******
+INFO    2022-07-13 17:38:34,281 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE ELIMINAR ODONTOLOGO ******
+ERROR   2022-07-13 17:38:34,283 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - No se encontro el odontologo: 1
+ERROR   2022-07-13 17:38:34,283 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - HTTP STATUS: NOTFOUND
+INFO    2022-07-13 17:38:40,654 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  INICIA EL PROCESO DE ACTUALIZAR DOMICILIOS ******
+INFO    2022-07-13 17:38:40,658 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se actualizo el domicilio:com.dh.integrador.FuentesRodriguezElkinDavid.dto.odontologoDTO@78bc71
+INFO    2022-07-13 17:38:40,658 [http-nio-8080-exec-8] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA EL PROCESO DE ACTUALIZAR ODONTOLOGO ******
+INFO    2022-07-13 17:38:45,315 [http-nio-8080-exec-9] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  ODONTOLOGOS ******
+INFO    2022-07-13 17:38:45,316 [http-nio-8080-exec-9] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  ODONTOLOGOS ******
+INFO    2022-07-13 17:47:41,084 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE INSERTAR PACIENTE ******
+DEBUG   2022-07-13 17:47:41,086 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se inserto el paciente con id: null
+INFO    2022-07-13 17:47:41,087 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA PROCESO DE INSERTAR PACIENTE ******
+INFO    2022-07-13 17:47:45,819 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  SE INICIA PROCESO DE INSERTAR ODONTOLOGO ******
+DEBUG   2022-07-13 17:47:45,820 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - Se inserto el domicilio con id: null
+INFO    2022-07-13 17:47:45,820 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.OdontologoController  - *****  FINALIZA PROCESO DE INSERTAR ODONTOLOGO ******
+INFO    2022-07-13 17:47:53,471 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  SE INICIA PROCESO DE INSERTAR TURNO ******
+DEBUG   2022-07-13 17:47:53,472 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - Se inserto el turno con id: null
+DEBUG   2022-07-13 17:47:53,781 [http-nio-8080-exec-4] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - Se inserto el turno con id: null
+INFO    2022-07-13 17:47:54,996 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  SE INICIA PROCESO DE INSERTAR TURNO ******
+DEBUG   2022-07-13 17:47:54,997 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - Se inserto el turno con id: null
+DEBUG   2022-07-13 17:47:55,009 [http-nio-8080-exec-5] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - Se inserto el turno con id: null
+INFO    2022-07-13 17:47:58,151 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  TURNOS ******
+INFO    2022-07-13 17:47:58,152 [http-nio-8080-exec-6] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  TURNOS ******
+INFO    2022-07-13 17:48:08,952 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  SE INICIA PROCESO DE ELIMINAR TURNO ******
+DEBUG   2022-07-13 17:48:08,968 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - Se elimino el turno: 1
+INFO    2022-07-13 17:48:08,982 [http-nio-8080-exec-7] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  FINALIZA EL PROCESO DE ELIMINAR TURNO ******
+INFO    2022-07-13 18:01:15,453 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  SE INICIA PROCESO DE INSERTAR PACIENTE ******
+DEBUG   2022-07-13 18:01:15,456 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - Se inserto el paciente con id: null
+INFO    2022-07-13 18:01:15,456 [http-nio-8080-exec-2] com.dh.integrador.FuentesRodriguezElkinDavid.controller.PacienteController  - *****  FINALIZA PROCESO DE INSERTAR PACIENTE ******
+INFO    2022-07-13 18:01:26,840 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  INICIA EL PROCESO DE CONSULTAR TODOS LOS  TURNOS ******
+INFO    2022-07-13 18:01:26,840 [http-nio-8080-exec-3] com.dh.integrador.FuentesRodriguezElkinDavid.controller.TurnoController  - *****  FINALIZA EL PROCESO DE CONSULTAR TODOS LOS  TURNOS ******
